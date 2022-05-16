@@ -4,7 +4,7 @@ import './my-label.css';
  *
  * @interface LabelProps
  */
-interface LabelProps {
+export interface LabelProps {
   /**
    * label content
    */
